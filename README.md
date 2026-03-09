@@ -1,3 +1,2 @@
 # Shell
-Schell Scripts\n
-Main Scripts
+Schell Scripts
